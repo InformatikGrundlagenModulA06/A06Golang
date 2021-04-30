@@ -1,0 +1,9 @@
+Golang:
+https://golangbot.com/learn-golang-series/
+
+https://www.youtube.com/watch?v=9GAYj92SqOc&t=1s
+
+https://www.openmymind.net/assets/go/go.pdf
+
+
+
